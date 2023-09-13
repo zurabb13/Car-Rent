@@ -8,6 +8,10 @@ import { FilterComponent } from '../../components/main/header/filter/filter.comp
 import { SearchComponent } from '../../components/main/header/search/search.component';
 import { MaterialModule } from '../../shared/material/material.module';
 import { UserComponent } from '../../components/main/header/user/user.component';
+import { ItemsComponent } from '../../components/main/items/items.component';
+import { ItemsDetailsComponent } from '../../components/main/items/items-details/items-details.component';
+import { ItemsInfoComponent } from '../../components/main/items/items-info/items-info.component';
+import { HttpClientModule } from '@angular/common/http';
 
 const COMPONENTS = [
   MainComponent,
@@ -15,10 +19,13 @@ const COMPONENTS = [
   FilterComponent,
   SearchComponent,
   UserComponent,
+  ItemsComponent,
+  ItemsDetailsComponent,
+  ItemsInfoComponent,
 ];
 @NgModule({
   declarations: [...COMPONENTS],
-  imports: [CommonModule, MainRoutingModule, MaterialModule],
+  imports: [CommonModule, MainRoutingModule, MaterialModule, HttpClientModule],
   exports: [...COMPONENTS],
 })
 export class MainModule {}

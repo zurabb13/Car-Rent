@@ -1,0 +1,175 @@
+{
+  "supercars": [
+    {
+      "car_name": "VelocityX",
+      "gas_mileage_city": "8 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,000",
+      "interest_level": 250
+    },
+    {
+      "car_name": "Inferno Racer",
+      "gas_mileage_city": "10 MPG",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,800",
+      "interest_level": 220
+    },
+    {
+      "car_name": "TurboFlash GT",
+      "gas_mileage_city": "9 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,200",
+      "interest_level": 300
+    },
+    {
+      "car_name": "ViperX",
+      "gas_mileage_city": "7 MPG",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,750",
+      "interest_level": 180
+    },
+    {
+      "car_name": "ElectraJet R",
+      "gas_mileage_city": "12 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,400",
+      "interest_level": 320
+    },
+    {
+      "car_name": "RapidFire S",
+      "gas_mileage_city": "8 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,100",
+      "interest_level": 270
+    },
+    {
+      "car_name": "BlitzMaster",
+      "gas_mileage_city": "11 MPG",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,900",
+      "interest_level": 230
+    },
+    {
+      "car_name": "PhoenixX GT",
+      "gas_mileage_city": "9 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,300",
+      "interest_level": 290
+    },
+    {
+      "car_name": "StealthFury",
+      "gas_mileage_city": "7 MPG",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,800",
+      "interest_level": 200
+    },
+    {
+      "car_name": "SonicNova",
+      "gas_mileage_city": "10 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,250",
+      "interest_level": 310
+    },
+    {
+      "car_name": "MachVortex",
+      "gas_mileage_city": "8 MPG",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,850",
+      "interest_level": 240
+    },
+    {
+      "car_name": "TitaniumX",
+      "gas_mileage_city": "11 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,350",
+      "interest_level": 300
+    },
+    {
+      "car_name": "GigaStorm R",
+      "gas_mileage_city": "9 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,200",
+      "interest_level": 280
+    },
+    {
+      "car_name": "NeonBlaze",
+      "gas_mileage_city": "7 MPG",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,900",
+      "interest_level": 220
+    },
+    {
+      "car_name": "ThunderVolt",
+      "gas_mileage_city": "12 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,450",
+      "interest_level": 330
+    },
+    {
+      "car_name": "AeroFusion GT",
+      "gas_mileage_city": "8 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,050",
+      "interest_level": 260
+    },
+    {
+      "car_name": "VenomX",
+      "gas_mileage_city": "10 MPG",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,950",
+      "interest_level": 240
+    },
+    {
+      "car_name": "LaserJet R",
+      "gas_mileage_city": "9 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,300",
+      "interest_level": 290
+    },
+    {
+      "car_name": "BlitzForce",
+      "gas_mileage_city": "7 MPG",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,850",
+      "interest_level": 210
+    },
+    {
+      "car_name": "SolarStrike",
+      "gas_mileage_city": "11 MPG",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,400",
+      "interest_level": 320
+    }
+  ],
+  "popular": [
+
+    {
+      "car_name": "VenomX",
+      "gas_mileage_city": "10L",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,950",
+      "interest_level": 2
+    },
+    {
+      "car_name": "LaserJet R",
+      "gas_mileage_city": "9L",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,300",
+      "interest_level": 2
+    },
+    {
+      "car_name": "BlitzForce",
+      "gas_mileage_city": "7L",
+      "transmission_type": "Manual",
+      "daily_rental_cost": "$1,850",
+      "interest_level": 7
+    },
+    {
+      "car_name": "SolarStrike",
+      "gas_mileage_city": "9L",
+      "transmission_type": "Automatic",
+      "daily_rental_cost": "$2,400",
+      "interest_level":9
+    }
+  ]
+}

@@ -1,10 +1,12 @@
 @import "../../../../../assets/scss/link";
 
-.logo {
-  @include font($blue-600, 24, 700, 120%);
-}
-div {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.div {
+  height: 124px;
+  border: 1px solid rgba(195, 212, 233, 0.4);
+  background: #fff;
+  margin: 0;
+  padding: 40px 60px;
+  .logo {
+    @include font($blue-600, 24, 700, 120%);
+  }
 }

@@ -1,0 +1,31 @@
+.info {
+  width: 304px;
+  height: 388px;
+  border-radius: 10px;
+  background: #fff;
+  p {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  button {
+    display: flex;
+    width: 116px;
+    height: 44px;
+    padding: 0 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #3563e9;
+    color: white;
+  }
+  .price-details {
+    color: #1a202c;
+    font-size: 20px;
+    font-style: normal;
+    line-height: normal;
+  }
+}
